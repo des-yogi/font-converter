@@ -1,0 +1,20 @@
+{
+  "name": "Font-converter",
+  "version": "1.0.0",
+  "description": "Convert ttf-fonts 2 woff & woff2",
+  "author": "Igor Beliakovski",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "gulp convert"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-ttf2woff": "^1.1.1",
+    "gulp-ttf2woff2": "^2.0.2"
+  }
+}
