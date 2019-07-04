@@ -6,7 +6,7 @@
   "license": "WTFPL",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/des-yogi/font-converter/"
   },
   "scripts": {
     "start": "gulp convert"
